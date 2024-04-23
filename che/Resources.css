@@ -1,0 +1,52 @@
+/* Reset default margin and padding */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Body styles */
+  body {
+    font-family: Arial Black, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #f9f9f9;
+    color: #e7e5e5;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #660303;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 28px;
+  }
+  
+  /* Main content styles */
+  main {
+    padding: 20px;
+  }
+
+  .Headd{
+    color:#5d5d5d;
+    text-align : center;
+    font-size: 25px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  /* Footer styles */
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #444;
+    color: #fff;
+  }
+  
